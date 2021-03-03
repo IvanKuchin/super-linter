@@ -90,11 +90,11 @@
         },
         "cfn-lint": {
             "hashes": [
-                "sha256:51d810bf63ee244a1b347e88d7ea53fa60308b4d36503bb86844c6ea280a6ff2",
-                "sha256:c89b70933fc2e7066acfd293c86cbd7f507fe4d764347fe23c3f8f17c54b4b2c"
+                "sha256:205131d32cdd8c1689af7ae1053f6269b106d7d79fce2ff150c655e80d4317b4",
+                "sha256:678642c1cc1d711457470ac1b8f3134320c82f409234f19f671e5ea1869515e8"
             ],
             "index": "pypi",
-            "version": "==0.38.0"
+            "version": "==0.46.0"
         },
         "chardet": {
             "hashes": [
